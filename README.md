@@ -1,6 +1,6 @@
 ## Sample React Structure 
 
-One of the best features of the framework is how it lets you make most of the decisions around tooling, build tools and folder structures, and you should embrace that. I hope this structure has given you more flexible in terms of coding & help you to your larger React applications
+One of the best features of the framework is how it lets you make most of the decisions around tooling, build tools and folder structures, and you should embrace that. I hope this structure will give you more flexiblity in terms of coding & help you to build larger React applications with proper format.
 
 ## Available Scripts
 
