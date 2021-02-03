@@ -11,6 +11,7 @@ Once the installation is done, you can run some commands inside the project fold
 * React ^16.14
 * NODE
 * axios ^0.19
+* React Redux ^7.2.2
 
 ## Installation
 #### 1. Clone this project or Download that ZIP file
