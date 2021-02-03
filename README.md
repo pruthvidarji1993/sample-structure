@@ -49,17 +49,5 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.
 By default, it also [includes a service worker](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#making-a-progressive-web-app) so that your app loads from local cache on future visits.
 
-Your app is ready to be deployed.
-
-## Features
-* User Roles (Admin & Business User)
-* Package 
-* Creating Customize QR with (URL, Social Link, VCard, Event, Email & SMS)
-* Trackable QR
-* Subscription With Stripe Payment Gateway 
-* User Management
-* QR Scan with Contacts
-and many more features.....
-
 ## Developed By
 Pruthvi Darji
